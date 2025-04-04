@@ -46,8 +46,5 @@ This folder contains a collection of my capstone projects, showcasing my work an
 - **Folium** (for creating interactive maps)
 - **BeautifulSoup** and **Requests** (for web scraping)
 
-## How to Run
-1. Clone this repository to your local machine.
-2. Install the necessary dependencies by running:
-   ```bash
-   pip install -r requirements.txt
+## Contact
+For questions or feedback, feel free to contact me at [brielle.boomer@gmail.com].
