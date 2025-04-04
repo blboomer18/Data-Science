@@ -36,4 +36,4 @@ This folder contains Jupyter notebooks focused on Exploratory Data Analysis (EDA
 - **Jupyter Notebooks** for running and sharing analysis
 
 ## Contact
-
+For questions or feedback, feel free to contact me at [brielle.boomer@gmail.com].
