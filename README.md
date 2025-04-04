@@ -17,7 +17,13 @@ Welcome! This repository contains a collection of data science projects, noteboo
 
 ## Highlights
 
-> *(Fill this in as you polish projects — I can help write these)*
+- Capstone Projects: Developed and deployed a Dash web application for SpaceX launch site visualizations, demonstrating interactive data analysis and web development skills.
+- Exploratory Data Analysis (EDA): Conducted in-depth analysis on various real-world datasets, including housing prices and stock market data, using Python libraries like Pandas, Matplotlib, and Seaborn to derive meaningful insights.
+- Machine Learning: Built predictive models for Titanic survival prediction and rainfall prediction, utilizing classification algorithms such as Logistic Regression and Random Forest to forecast outcomes based on historical data.
+- Web Scraping: Automated data collection using BeautifulSoup and Selenium to gather and clean data from SpaceX and Chicago crime statistics, showcasing skills in handling unstructured data.
+- SQL & Data Wrangling: Applied SQL queries for data cleaning and aggregation in the Chicago Data project, and utilized Pandas for data wrangling and preparation of clean datasets for analysis.
+- Geospatial Data: Utilized Folium to create interactive maps, visualizing launch sites and other geospatial data, enhancing understanding of spatial patterns in the data.
+- Data Visualization: Designed compelling data visualizations and dashboards to convey complex findings in an intuitive and actionable format, including stock data visualizations and folium-based maps.
 
 ## Work in Progress
 
