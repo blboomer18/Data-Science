@@ -28,4 +28,4 @@ This folder contains Jupyter notebooks showcasing various machine learning proje
 - **Scikit-learn** for machine learning algorithms and model evaluation
 
 ## Contact
-
+For questions or feedback, feel free to contact me at [brielle.boomer@gmail.com].
