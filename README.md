@@ -1,4 +1,4 @@
-#Data Science Portfolio
+# Data Science Portfolio
 
 Welcome! This repository contains a collection of data science projects, notebooks, and experiments I've completed as part of my coursework and personal learning journey.
 
