@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-Welcome! This repository contains a collection of data science projects, notebooks, and experiments I've completed as part of my coursework and personal learning journey.
+Welcome! This repository contains a collection of data science projects, notebooks, and experiments I've completed as part of my coursework and personal learning journey. It showcases my journey and work in data science, including projects on exploratory data analysis, machine learning, and web scraping. The goal is to demonstrate my ability to work with real-world data, apply machine learning techniques, and visualize findings in a meaningful way.
 
 ## Repo Structure
 
