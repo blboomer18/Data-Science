@@ -11,9 +11,12 @@ Welcome! This repository contains a collection of data science projects, noteboo
 
 ## Technologies & Tools
 
-- Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, NLTK, etc.)
-- Jupyter Notebooks
-- Git & GitHub
+- Programming, Data Analysis & Visualization (Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, NLTK, Folium, Dash, Plotly, etc.)
+- Development & Collaboration (Jupyter Notebooks, Git, GitHub, VS Code, Docker)
+- Machine Learning (Scikit-Learn, XGBoost, TensorFlow & Keras)
+- Data Wrangling & SQL (SQLite / PostgreSQL)
+- Web Scraping & Automation (BeautifulSoup, Selenium, Requests)
+- Cloud & APIs (AWS, Azure, Google Cloud, REST APIs)
 
 ## Highlights
 
